@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+  Copyright (c) 2022, WSO2 LLC. (http://www.wso2.com). All Rights Reserved.
+ 
+ - This software is the property of WSO2 Inc. and its suppliers, if any.
+ - Dissemination of any information or reproduction of any material contained
+ - herein is strictly forbidden, unless permitted by WSO2 in accordance with
+ - the WSO2 Commercial License available at http://wso2.com/licenses.
+ - For specific language governing the permissions and limitations under
+ - this license, please see the license as well as any agreement you’ve
+ - entered into with WSO2 governing the purchase of this software and any
+ - associated services.
+ -->
+ <svg version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 16 16">
+<path class="st0" d="M15.4,12.5h-1.7V6.9c0-2.8-2-5.1-4.6-5.6V1.1C9.1,0.5,8.6,0,8,0S6.9,0.5,6.9,1.1v0.1C4.2,1.8,2.3,4.1,2.3,6.9
+	v5.7H0.6c-0.3,0-0.6,0.3-0.6,0.6s0.3,0.6,0.6,0.6h5.1C5.7,15,6.7,16,8,16s2.3-1,2.3-2.3h5.1c0.3,0,0.6-0.3,0.6-0.6
+	C16,12.8,15.7,12.5,15.4,12.5z M9.2,13.8c-0.1,0.6-0.5,1-1.1,1H7.9c-0.6-0.1-1-0.5-1-1.1L9.2,13.8L9.2,13.8z M12.6,12.5H3.4V6.6
+	C3.6,4.2,5.6,2.3,8,2.3h0.3c2.4,0.2,4.3,2.2,4.3,4.6V12.5z"/>
+</svg>
