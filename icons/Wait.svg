@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+  Copyright (c) 2022, WSO2 LLC. (http://www.wso2.com). All Rights Reserved.
+ 
+ - This software is the property of WSO2 Inc. and its suppliers, if any.
+ - Dissemination of any information or reproduction of any material contained
+ - herein is strictly forbidden, unless permitted by WSO2 in accordance with
+ - the WSO2 Commercial License available at http://wso2.com/licenses.
+ - For specific language governing the permissions and limitations under
+ - this license, please see the license as well as any agreement you’ve
+ - entered into with WSO2 governing the purchase of this software and any
+ - associated services.
+ -->
+ <svg version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 16 16">
+<path d="M8,0c4.4,0,8,3.6,8,8c0,0.3-0.2,0.5-0.5,0.5S15,8.3,15,8c0-3.9-3.1-7-7-7C4.1,1,1,4.1,1,8c0,3.7,2.9,6.7,6.5,7
+	C7.8,15,8,15.2,8,15.5C8,15.8,7.7,16,7.4,16C3.3,15.7,0,12.2,0,8C0,3.6,3.6,0,8,0z M10.6,14.5c0.3,0,0.5,0.2,0.5,0.5
+	c0,0.3-0.2,0.5-0.5,0.5c-0.3,0-0.5-0.2-0.5-0.5C10.1,14.8,10.3,14.5,10.6,14.5z M13.1,13c0.3,0,0.5,0.2,0.5,0.5
+	c0,0.3-0.2,0.5-0.5,0.5c-0.3,0-0.5-0.2-0.5-0.5C12.6,13.2,12.9,13,13.1,13z M10.8,3v3.1c0,0.8-0.4,1.5-1,1.9c0.6,0.4,1,1.1,1,1.9V13
+	H5.2V9.9c0-0.8,0.4-1.5,1-1.9c-0.6-0.4-1-1.1-1-1.9V3H10.8z M7.3,9.1C7,9.2,6.8,9.6,6.8,9.9v1.7h2.5V9.9c0-0.3-0.2-0.6-0.4-0.8
+	L8.7,9.1C8.3,8.9,7.7,8.9,7.3,9.1z M14.9,10.5c0.3,0,0.5,0.2,0.5,0.5c0,0.3-0.2,0.5-0.5,0.5c-0.3,0-0.5-0.2-0.5-0.5
+	C14.4,10.7,14.6,10.5,14.9,10.5z M9.2,4.4H6.8v1.7c0,0.3,0.2,0.6,0.4,0.8l0.1,0.1c0.4,0.2,0.9,0.2,1.4,0C9,6.8,9.2,6.4,9.2,6.1V4.4z
+	"/>
+</svg>

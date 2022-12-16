@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- 
-  Copyright (c) 2021, WSO2 Inc. (http://www.wso2.com). All Rights Reserved.
+  Copyright (c) 2022, WSO2 LLC. (http://www.wso2.com). All Rights Reserved.
  
  - This software is the property of WSO2 Inc. and its suppliers, if any.
  - Dissemination of any information or reproduction of any material contained
@@ -11,10 +11,10 @@
  - entered into with WSO2 governing the purchase of this software and any
  - associated services.
  -->
-<svg version="1.1" id="sdk" x="0px" y="0px" viewBox="0 0 14 14">
-<path id="Combined_Shape-2" d="M1.4,13.2c-0.7,0-1.3-0.5-1.4-1.3l0-0.1V4.5c0-0.7,0.5-1.3,1.3-1.4l0.1,0h6.5c0.3,0,0.5,0.2,0.5,0.5
-	C8.3,3.8,8.2,4,7.9,4L7.9,4H1.4C1.2,4,1,4.2,0.9,4.4l0,0.1v7.4c0,0.2,0.2,0.4,0.4,0.5l0.1,0h10.2c0.2,0,0.4-0.2,0.5-0.4l0-0.1V10
-	c0-0.3,0.2-0.5,0.5-0.5c0.2,0,0.4,0.2,0.5,0.4l0,0.1v1.8c0,0.7-0.5,1.3-1.3,1.4l-0.1,0H1.4z M9.7,8.7c-0.2-0.2-0.2-0.5,0-0.7
-	l3.3-3.3L9.7,1.6c-0.2-0.2-0.2-0.5,0-0.7c0.2-0.2,0.5-0.2,0.7,0c0,0,0,0,0,0l3.5,3.5C14,4.5,14,4.7,14,4.8c0,0.1,0,0.3-0.1,0.4
-	l-3.5,3.5C10.1,8.9,9.8,8.9,9.7,8.7z"/>
+ <svg version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 16 16">
+<path class="st0" d="M10.9,0.9c0.2-0.2,0.6-0.2,0.8,0L15.8,5C16,5.1,16,5.3,16,5.4c0,0.2,0,0.3-0.2,0.4L11.7,10
+	c-0.2,0.2-0.6,0.2-0.8,0s-0.2-0.6,0-0.8l3.8-3.8l-3.8-3.8C10.7,1.4,10.7,1.1,10.9,0.9z M9.2,3.4c0.3,0,0.5,0.2,0.5,0.5
+	c0,0.3-0.2,0.5-0.4,0.5l-0.1,0H1.6c-0.3,0-0.5,0.2-0.5,0.4l0,0.1v8.6c0,0.3,0.2,0.5,0.4,0.5l0.1,0h11.9c0.3,0,0.5-0.2,0.5-0.4l0-0.1
+	v-2.2c0-0.3,0.2-0.5,0.5-0.5c0.3,0,0.5,0.2,0.5,0.4l0,0.1v2.2c0,0.8-0.6,1.5-1.5,1.6l-0.2,0H1.6c-0.8,0-1.5-0.6-1.6-1.5l0-0.2V5
+	c0-0.8,0.6-1.5,1.5-1.6l0.2,0H9.2z"/>
 </svg>

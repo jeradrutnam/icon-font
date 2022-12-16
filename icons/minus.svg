@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- 
-  Copyright (c) 2021, WSO2 Inc. (http://www.wso2.com). All Rights Reserved.
+  Copyright (c) 2022, WSO2 LLC. (http://www.wso2.com). All Rights Reserved.
  
  - This software is the property of WSO2 Inc. and its suppliers, if any.
  - Dissemination of any information or reproduction of any material contained
@@ -11,8 +11,6 @@
  - entered into with WSO2 governing the purchase of this software and any
  - associated services.
  -->
-<svg version="1.1" id="Icon_Add_Copy_52" x="0px" y="0px" viewBox="0 0 14 14">
-<path id="Combined_Shape-2" d="M0.5859892,6.4140105h12.828022C13.7376432,6.4140105,14,6.6763673,14,7
-	s-0.2623568,0.5859895-0.585989,0.5859895H0.5859892C0.2623563,7.5859895,0,7.3236327,0,7
-	C0,6.6763673,0.2623563,6.4140105,0.5859892,6.4140105z"/>
+ <svg version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 16 16">
+<path d="M1.2,8c0-0.3,0.3-0.6,0.6-0.6h12.5c0.3,0,0.6,0.3,0.6,0.6c0,0.3-0.3,0.6-0.6,0.6H1.7C1.4,8.6,1.2,8.3,1.2,8z"/>
 </svg>

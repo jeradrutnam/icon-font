@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- 
-  Copyright (c) 2021, WSO2 Inc. (http://www.wso2.com). All Rights Reserved.
+  Copyright (c) 2022, WSO2 LLC. (http://www.wso2.com). All Rights Reserved.
  
  - This software is the property of WSO2 Inc. and its suppliers, if any.
  - Dissemination of any information or reproduction of any material contained
@@ -11,10 +11,8 @@
  - entered into with WSO2 governing the purchase of this software and any
  - associated services.
  -->
-<svg version="1.1" id="hotspot" x="0px" y="0px" viewBox="0 0 14 14">
-<path id="Combined_Shape" d="M0,7c0-3.8659933,3.1340067-7,7-7s7,3.1340067,7,7s-3.1340065,7-7,7
-	C3.1360054,13.9951792,0.004821,10.8639946,0,7z M0.875,7c0,3.3827438,2.7422562,6.125,6.125,6.125S13.125,10.3827438,13.125,7
-	S10.3827438,0.875,7,0.875C3.618855,0.8788575,0.8788577,3.618855,0.875,7z M4.8125,7c0-1.2081232,0.9793768-2.1875,2.1875-2.1875
-	S9.1875,5.7918768,9.1875,7S8.2081223,9.1875,7,9.1875S4.8125,8.2081223,4.8125,7z M5.6875,7
-	c0,0.724874,0.587626,1.3125,1.3125,1.3125S8.3125,7.724874,8.3125,7S7.724874,5.6875,7,5.6875S5.6875,6.275126,5.6875,7z"/>
+ <svg version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 16 16">
+<path class="st0" d="M8,0C3.6,0,0,3.6,0,8c0,4.4,3.6,8,8,8c4.4,0,8-3.6,8-8C16,3.6,12.4,0,8,0z M8,1c3.9,0,7,3.1,7,7
+	c0,3.9-3.1,7-7,7c-3.9,0-7-3.1-7-7C1,4.1,4.1,1,8,1z M8,5.5C6.6,5.5,5.5,6.6,5.5,8s1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5S9.4,5.5,8,5.5z
+	 M8,6.5c0.8,0,1.5,0.7,1.5,1.5S8.8,9.5,8,9.5S6.5,8.8,6.5,8S7.2,6.5,8,6.5z"/>
 </svg>
